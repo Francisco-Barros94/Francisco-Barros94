@@ -2,9 +2,8 @@
 
 I am Francisco Barros, currently working as a Software Engineer. I am a junior Frontend JavaScript developer with aspirations to Full-Stack, love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscobarros1994/)](https://www.linkedin.com/in/ludehsar/)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francisco.barros1994@gmail.com)](mailto:francisco.barros1994@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscobarros1994/)](https://www.linkedin.com/in/franciscobarros1994/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francisco.barros1994@gmail.com)](mailto:francisco.barros1994@gmail.com)
 
 
 ## ⚡ Technologies
