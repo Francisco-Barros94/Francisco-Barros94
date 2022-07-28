@@ -38,3 +38,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/franciscobarros1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscobarros1994" height="30" width="40" /></a>
 <a href="https://instagram.com/francisco_barros94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francisco_barros94" height="30" width="40" /></a></p>
+
+
+![](https://komarev.com/ghpvc/?username=your-github-Francisco-Barros94&style=for-the-badge)
