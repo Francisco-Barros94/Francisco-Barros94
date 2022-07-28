@@ -29,9 +29,9 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/> </a> </br></br>
 
-
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=francisco-barros94&show_icons=true&locale=en" alt="francisco-barros94" /></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francisco-barros94&show_icons=true&locale=en&layout=compact" alt="francisco-barros94" /> </a> </br>
+<h3 align="center">
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=francisco-barros94&show_icons=true&locale=en" alt="francisco-barros94" /></a></br>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francisco-barros94&show_icons=true&locale=en&layout=compact" alt="francisco-barros94" /> </a> </br></h3>
 
 
 <h3 align="center">Connect with me:</h3>
