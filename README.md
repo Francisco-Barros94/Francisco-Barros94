@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Barros</h1>
-<h3 align="center">I am a passionate junior Frontend developer from Portugal, with aspirations to Full-Stack and currently working as a Software Engineer. Love writing clean and maintainable code.</h3></br>
+<h3 align="center">I am a passionate Frontend developer from Portugal, with aspirations to Full-Stack and currently working as a Software Engineer. Love writing clean and maintainable code.</h3></br>
 
 
 <h3 align="center">⚡ Technologies ⚡</h3>
